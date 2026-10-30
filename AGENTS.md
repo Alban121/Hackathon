@@ -23,6 +23,7 @@ Source : `ressources/hackathon_briefing_EN.pdf`. En cas de doute, le sujet fait 
 | `notebook.ipynb` | Notebook de l'équipe (à rendre), chemins relatifs à la racine |
 | `submissions/` | Fichiers CSV envoyés sur Kaggle |
 | `LOG.md` | Journal des soumissions (à rendre) |
+| `DECISIONS.md` | Choix de fonctionnement et d'architecture, base de la fiche d'explication |
 | `ressources/` | Sujet PDF, notebook de départ et modèle de LOG, à ne pas modifier |
 
 Les données ne sont pas modifiées à la main : tout prétraitement se fait dans le code.
@@ -61,6 +62,12 @@ Si une demande enfreint une de ces règles, l'assistant le signale et propose un
 - Utiliser uniquement les **codes participants**, jamais de noms.
 - Gate 2 (17:35) : ajouter une matrice de confusion et une phrase d'analyse des classes confondues.
 - Bonus : la meilleure idée notée dans LOG.md vaut +0,5.
+
+## DECISIONS.md
+
+- Chaque choix important (features, modèle, validation, hyperparamètres) y est noté avec le contexte, les options envisagées, le choix et la raison.
+- L'assistant propose d'ajouter une entrée quand une décision est prise.
+- La section « Synthèse » est remplie à la fin pour préparer la fiche d'explication (18:20).
 
 ## Soumission Kaggle
 
