@@ -1,4 +1,4 @@
-# Submission log, team ____
+# Submission log, team Team_13
 
 One line per Kaggle submission. Fill it **before** you look at the score, except the last column.
 

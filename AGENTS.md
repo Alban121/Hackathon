@@ -65,7 +65,7 @@ Si une demande enfreint une de ces règles, l'assistant le signale et propose un
 ## Soumission Kaggle
 
 - Format : `workout_id,intensity`, une ligne par entraînement du test (~7 670 lignes).
-- Nom d'équipe officiel `Team_XX` (13 à 28). Aucune soumission avant que l'équipe Kaggle soit complète.
+- Équipe Kaggle : **Team_13** (nom officiel obligatoire). Aucune soumission avant que l'équipe Kaggle soit complète.
 - À 18:10 : sélectionner la soumission finale sur Kaggle, déposer notebook + LOG.md sur Boostcamp.
 
 ## Marqueurs de conversation IA
